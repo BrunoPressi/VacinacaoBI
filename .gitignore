@@ -1,0 +1,26 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Ambiente virtual
+venv/
+.env
+.venv/
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Saída de notebook
+*.nbconvert.ipynb
+
+# Dados CSV
+DadosVacinacao/
