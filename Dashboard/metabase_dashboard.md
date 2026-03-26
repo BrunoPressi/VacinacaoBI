@@ -22,6 +22,9 @@ Esta seção apresenta indicadores que mostram **como a campanha de vacinação 
 **Pergunta de negócio**
 
 > Qual é o total de doses aplicadas ao longo do tempo?
+> ![Veja o gráfico aqui - Filtrado por Ano](Graficos/volume-imunizacao-ano.png)
+> ![Veja o gráfico aqui - Filtrado por Mes](Graficos/volume-imunizacao-mes.png)
+> ![Veja o gráfico aqui - Filtrado por Trimestre](Graficos/volume-imunizacao-trimestre.png)
 
 ---
 
@@ -38,6 +41,7 @@ Mostra a distribuição das aplicações entre:
 **Pergunta de negócio**
 
 > Como está a distribuição das aplicações dentro do ciclo vacinal?
+> ![Veja o gráfico aqui](Graficos/ciclo_vacinal.png)
 
 ---
 
@@ -48,6 +52,7 @@ Mostra a distribuição das aplicações entre:
 **Pergunta de negócio**
 
 > Qual imunizante (fabricante) foi mais utilizado na campanha de vacinação no estado?
+> ![Veja o gráfico aqui](Graficos/share-imunizantes.png)
 
 ---
 
@@ -62,6 +67,7 @@ Esta seção apresenta informações sobre **quem recebeu as vacinas**, permitin
 **Pergunta de negócio**
 
 > Qual é o número de vacinados distribuídos por faixa etária?
+> ![Veja o gráfico aqui](Graficos/demografia-faixa-etaria.png)
 
 ---
 
@@ -72,6 +78,7 @@ Esta seção apresenta informações sobre **quem recebeu as vacinas**, permitin
 **Pergunta de negócio**
 
 > Qual é o número de vacinados distribuídos por sexo?
+> ![Veja o gráfico aqui](Graficos/demografia-sexo.png)
 
 ---
 
@@ -89,6 +96,8 @@ Exemplos de grupos analisados:
 * Idosos
 * População em geral
 
+* > ![Veja o gráfico aqui](Graficos/grupos-prioritarios.png)
+
 ---
 
 # 3. Distribuição Geográfica da Vacinação
@@ -102,6 +111,7 @@ Esta seção apresenta informações sobre **onde as vacinas foram aplicadas**, 
 **Pergunta de negócio**
 
 > Quais municípios possuem os maiores volumes de aplicação de vacinas?
+> > ![Veja o gráfico aqui](Graficos/distribuicao-geo.png)
 
 ---
 
@@ -112,6 +122,7 @@ Esta seção apresenta informações sobre **onde as vacinas foram aplicadas**, 
 **Pergunta de negócio**
 
 > Quais estabelecimentos de saúde foram responsáveis por aplicar o maior número de vacinas?
+> ![Veja o gráfico aqui](Graficos/engajamento-postos.png)
 
 ---
 
