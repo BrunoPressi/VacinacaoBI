@@ -21,10 +21,10 @@ Esta seção apresenta indicadores que mostram **como a campanha de vacinação 
 
 **Pergunta de negócio**
 
-> Qual é o total de doses aplicadas ao longo do tempo?
-> ![Veja o gráfico aqui - Filtrado por Ano](Graficos/volume-imunizacao-ano.png)<br>
-> ![Veja o gráfico aqui - Filtrado por Mes](Graficos/volume-imunizacao-mes.png)<br>
-> ![Veja o gráfico aqui - Filtrado por Trimestre](Graficos/volume-imunizacao-trimestre.png)<br>
+> Qual é o total de doses aplicadas ao longo do tempo?<br>
+> ![Veja o gráfico aqui - Filtrado por Ano](Graficos/volume_imunizacao-ano.png)<br>
+> ![Veja o gráfico aqui - Filtrado por Mes](Graficos/volume_imunizacao-mes.png)<br>
+> ![Veja o gráfico aqui - Filtrado por Trimestre](Graficos/volume_imunizacao-trimestre.png)<br>
 
 ---
 
